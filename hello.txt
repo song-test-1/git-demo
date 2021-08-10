@@ -1,5 +1,6 @@
 hello git
 second change
-hahahahah
+hahahahah,changed in master
 hot-fix branch
 I have fixed
+I have change the master fix
